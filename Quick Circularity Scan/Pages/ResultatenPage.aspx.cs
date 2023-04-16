@@ -96,12 +96,11 @@ namespace Quick_Circularity_Scan.Pages
 
         protected void HomeBttn_Clicked(object sender, EventArgs e)
         {
-            Response.Redirect("HomePage.aspx");
         }
 
         protected void ProductBttn_Click(object sender, EventArgs e)
         {
-            Response.Redirect("HomePage.aspx");
+            
         }
 
         protected void RefuseBttn_Click(object sender, EventArgs e)
